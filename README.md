@@ -20,10 +20,10 @@ java Main
 
 # Screenshots
  Program Start
-![Program Start](screenshots/screenshot1.png)
+![Program Start](<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/c4340a5a-b93b-45cd-b839-e0767616d15a" />)
  Driver Information
-![Driver Information](screenshots/screenshot2.png)
+![Driver Information](<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/470b516c-e7a5-4d90-b8ad-0812ff8079a4" />)
  Race Tracking
-![Race Tracking](screenshots/screenshot3.png)
+![Race Tracking](<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/611cf243-f2f3-4190-973c-ab043d91b86e" />)
  Final Output
-![Final Output](screenshots/screenshot4.png)
+![Final Output](<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/44427075-4580-4a1f-b3ff-70a5aa481a07" />)
