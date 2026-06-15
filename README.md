@@ -17,3 +17,13 @@ java Main
 # Files
 - Main.java – Program entry point, builds and displays all data structures
 - Driver.java – Driver class (name, team, position, fastest lap)
+
+# Screenshots
+ Program Start
+![Program Start](screenshots/screenshot1.png)
+ Driver Information
+![Driver Information](screenshots/screenshot2.png)
+ Race Tracking
+![Race Tracking](screenshots/screenshot3.png)
+ Final Output
+![Final Output](screenshots/screenshot4.png)
